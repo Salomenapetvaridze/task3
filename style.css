@@ -1,0 +1,179 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    list-style-type: none;
+    
+}
+
+a{
+    text-decoration: none;
+}
+.main-logo{
+    margin: 0px 0px 0px 130px;
+    width: 180px;
+    height: 96px;
+}
+
+
+.main-photo{
+    width: 1440px;
+    height: 478px;
+    top: 96px;
+
+}
+.nav-items{
+    text-align: right;
+    
+}
+.nav-items li{
+    display: inline-block;
+    margin: 15px 130px 32px 0px;
+}
+
+
+
+
+.active {
+    color: red;
+}
+
+.welcome{
+    color: #17326E;
+    font-size: 36px;
+    line-height: 43.57px;
+
+}
+.content{
+    color: #090346;
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 24.2px;
+
+ }
+
+ .row{
+    background-color:#EBEBF0;
+    width: 1440px;
+    height: 546px;
+    
+ }
+
+ .rectangle-first {
+    margin: 121px 20px 121px 100px;
+ }
+ .rectangle-second{
+    margin: 121px 20px 121px 0px;
+ }
+.rectangle-third{
+    margin: 121px 100px 121px 0px;
+}
+ .footer{
+    
+    background-color: #19126B;
+    width: 1440px;
+    height: 161px;
+    
+    
+ }
+
+ .footer li{
+    display: inline-block;
+ }
+ 
+ .footer p{
+  text-align: left;
+  
+ }
+
+ul .text{
+    color: #FFFFFF;
+    margin: 71px 130px 71px 1028px;
+}
+
+.old-car{
+    width:566px;
+    height: 371px;
+    margin: 73px 130px 72px 744px;
+}
+
+ /*.middle{
+   max-width: 100%;
+    height: 516px;
+    top: 1002px;
+    padding: 73px 130px 72px 130px;
+    background-color:#EBEBF0;
+}*/
+.middle{
+    background-color:#EBEBF0;
+    width: 1440px;
+    height: 439px;
+    top: 930px;
+}
+.about-us{
+    margin: 120px 530px 120px 130px;
+    width:680px;
+    height:188px;
+}
+
+.old-car{
+    margin:215px 230px 72px 744px;
+    
+}
+
+.contact-us{
+    width: 240.07925415039062px;
+    height: 44px;
+    color: #19126B;
+}
+.text{
+    color: #090346;
+    width: 780px;
+    height: 24px;
+    top: 68px;
+}
+.contact{
+    background-color:#EBEBF0;
+    width: 1440px;
+    height: 439px;
+    top: 930px;
+    
+    
+
+}
+
+.contact-information{
+    width: 276px;
+   height: 36px;
+   color: #19126B;
+   font-family: BPG Nino Mtavruli;
+    font-size: 24px;
+    font-style: normal;
+   font-weight: 200;
+   line-height: 36px;
+   letter-spacing: 0em;
+   text-align: left;
+   margin: 78px 223px 24px 131px;
+   
+}
+
+.address{
+    width: 322px;
+    height: 20px;
+    font-style: normal;
+    margin: 0px 223px 0px 131px;
+
+}
+
+.tel-email{
+    color:#000000;
+}
+
+.blue{
+    color:#0D69A9
+}
+ .map{
+    width: 680px;
+    height: 374px;
+    margin: 0px 0px 0px 630px;
+
+ }
